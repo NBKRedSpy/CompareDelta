@@ -26,7 +26,8 @@
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="Unity.TextMeshPro">
-		  <HintPath>D:\Games\Steam\steamapps\common\Quasimorph\Quasimorph_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+		  <HintPath>$(ManagedPath)Unity.TextMeshPro.dll</HintPath>
+			<Private>False</Private>
 		</Reference>
 		<Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
 			<SpecificVersion>False</SpecificVersion>
