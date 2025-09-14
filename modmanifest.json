@@ -1,0 +1,9 @@
+{
+  "UniqueModName": "NBKRedSpy_CompareDelta",
+  "Assemblies": [
+    "CompareDelta.dll"
+  ],
+  "Dependencies": [],
+  "SteamTags": [
+  ]
+}
