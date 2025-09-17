@@ -12,3 +12,10 @@ Thanks!
 [h1]Source Code[/h1]
 
 Source code is available on GitHub at https://github.com/NBKRedSpy/CompareDelta
+
+[h1]Change Log[/h1]
+
+[h2]1.0.1[/h2]
+[list]
+[*]Fixes 0 delta showing +0
+[/list]

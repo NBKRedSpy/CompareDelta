@@ -59,8 +59,8 @@ namespace CompareDelta
             ComprasionType comprasionType, int currentResist, int equippedResist)
         {
 
-
-            string difference = $" ({(currentResist - equippedResist).ToString("+#;-#;")})";
+            int delta = currentResist - equippedResist;
+            string difference = delta == 0 ? "" : $" ({(delta).ToString("+#;-#")})";
 
             switch (comprasionType)
             {
